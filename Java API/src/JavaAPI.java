@@ -23,18 +23,20 @@ public class JavaAPI
 				System.out.println(string2.indexOf(12));
 				
 				//Challenge 6
-				
+				System.out.println(string1 + string2);
 				
 				//Challenge7
-				
+				String newstring2 = string2.replac;
 				
 				//Challenge 8
 				System.out.println(string1.toUpperCase());
 				
 				//Challenge 9
-				
+				String newstring1 = string1.replace(" ", "");
+				System.out.println(newstring1);
 				
 				//Challenge 10
+				System.out.println(string1.compareTo(string2));
 
 			}
 
