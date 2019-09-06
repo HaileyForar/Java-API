@@ -20,13 +20,13 @@ public class JavaAPI
 				System.out.println(string2.indexOf(0));
 				
 				//Challenge 5
-				System.out.println(string2.indexOf(12));
+				System.out.println(string2.indexOf(12 ));
 				
 				//Challenge 6
 				System.out.println(string1 + string2);
 				
 				//Challenge7
-				String newstring2 = string2.replac;
+				System.out.println(string2.replace("e", "x"));
 				
 				//Challenge 8
 				System.out.println(string1.toUpperCase());
